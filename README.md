@@ -39,13 +39,3 @@ Over my career, I've architected key AI modules integrated into high-impact clie
 
 ---
 
-## 🎯 Current Focus
-
-```python
-current_focus = {
-    "architecture": "Multi-Agent Systems & State Machines (LangGraph)",
-    "protocols": "Model Context Protocol (MCP) Server/Client Architectures",
-    "retrieval": "Agentic RAG & Hybrid Search (BM25 + Dense Vectors)",
-    "patents": "Exploring novel AI-hardware optimization mechanics"
-}
-```
