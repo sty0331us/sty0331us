@@ -6,24 +6,6 @@ I am a **Staff Software Engineer with 9+ years of experience** bridging the gap 
 
 Over my career, I've architected key AI modules integrated into high-impact client systems, including leading technical integrations for multimodal LLMs (e.g., Google Gemini) into the **Samsung Galaxy One UI ecosystem** serving millions of active users.
 
----
-
-## 🛠️ Core Expertise
-
-* **🤖 Agentic Workflows & MCP Architecture:**
-  * Specialist in building autonomous AI agent systems and collaborative multi-agent workflows using **LangGraph**, **LangChain**, and the **Model Context Protocol (MCP)**.
-  * Proficient in implementing **FastMCP servers/clients**, tool calling, dynamic chaining, and **Human-in-the-Loop (HITL)** security controls (permission policies & sampling).
-
-* **🔍 Advanced RAG & Vector Databases:**
-  * Deep expertise in end-to-end RAG architecture optimization using **LlamaIndex**, **LangChain**, and Vector Databases (**FAISS**, **Chroma DB**).
-  * Skilled in advanced retrieval patterns, HNSW indexing, embedding optimization, and performance tuning for high-precision context retrieval.
-
-* **⚙️ Production GenAI Integration & Optimization:**
-  * Hands-on experience with LLM post-training, alignment, and efficiency tuning via **LoRA / QLoRA**.
-  * Proven track record of scaling GenAI capabilities to massive production environments with strict performance constraints.
-
-* **💡 IP & Technological Innovation:**
-  * **Lead Inventor of 11 Published US Patents** focusing on hardware-software synergy and AI-driven system mechanics.
 
 ---
 
