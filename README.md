@@ -4,8 +4,6 @@
 
 I am a **Staff Software Engineer with 9+ years of experience** bridging the gap between frontier AI research and large-scale production systems. I specialize in designing and deploying **AI-native architectures**, **Agentic workflows**, and **production-grade Advanced RAG systems**. 
 
-Over my career, I've architected key AI modules integrated into high-impact client systems, including leading technical integrations for multimodal LLMs (e.g., Google Gemini) into the **Samsung Galaxy One UI ecosystem** serving millions of active users.
-
 
 ---
 
