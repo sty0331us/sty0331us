@@ -1,4 +1,4 @@
-# Hi there, I'm Taeyang (Lucas) 👋
+# Hi there 👋, I'm Taeyang (Lucas).
 
 ### 🚀 Staff AI Engineer | Agentic AI Workflows | RAG & GenAI Platforms | Multi-Agent Architecture 
 
